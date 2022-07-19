@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
         rollButton.setOnClickListener {
             rollDice()
         }
+        rollDice()
     }
 
     /**
